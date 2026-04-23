@@ -168,5 +168,3 @@ DeepFake/
 3. Set `DATABASE_URL` in your environment
 
 ## License
-
-MIT
