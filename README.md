@@ -155,17 +155,5 @@ DeepFake/
 4. **Attention Rollout** — Attention weights from all 12 transformer layers are aggregated to produce a spatial heatmap showing which regions the model focused on
 5. **Explanation** — The heatmap is analyzed region-by-region (eyes, mouth, nose, forehead, etc.) to generate human-readable explanations
 
-## Deployment
-
-### Render (Backend)
-1. Connect your GitHub repo
-2. Set environment variables (`DATABASE_URL`, `JWT_SECRET_KEY`, etc.)
-3. Build command: `pip install -r requirements.txt`
-4. Start command: `gunicorn run:app`
-
-### Supabase (Database)
-1. Create a new Supabase project
-2. Copy the PostgreSQL connection string
-3. Set `DATABASE_URL` in your environment
 
 ## License
