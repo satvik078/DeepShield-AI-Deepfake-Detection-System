@@ -57,6 +57,7 @@ models/vit-deepfake/
 ├── model.safetensors        # Trained weights (~343MB)
 └── preprocessor_config.json # Image preprocessing config
 ```
+You can download the model from hugging face spaces link- https://huggingface.co/Satvik078/models
 
 ### 5. Run the Server
 
