@@ -1,0 +1,14 @@
+.DS_Store
+DeepFake.ipynb
+venv
+.env
+*.pyc
+__pycache__
+node_modules
+*.log
+/instance
+deepfake2 (1).ipynb
+implementation_plan.md
+model.safetensors
+preprocessor_config.json
+config.json
