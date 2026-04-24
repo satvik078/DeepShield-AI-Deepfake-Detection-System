@@ -68,11 +68,6 @@ python3 run.py
 
 Visit `http://localhost:5003` in your browser.
 
-### 6. Default Admin Login
-
-- **Email:** `admin@deepfake.ai`
-- **Password:** `admin123`
-
 > ⚠️ Change these in `.env` for production!
 
 ## API Endpoints
